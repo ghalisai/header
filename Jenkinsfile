@@ -1,21 +1,25 @@
-pipeline {
+pipeline
+{
   agents any
-  stages {
+  stages
+  {
   stage('git check in')
   {
-  steps{
+  steps
+  {
    git 'https://github.com/ghalisai/header.git'
    echo 'checkin the code from git'
   }
   }
   stage('code compile')
   {
-   steps{
+   steps
+   {
    withMaven(maven:'maven_3.6.3')
    sh 'mvn clean compile'
    }
   }
-  }
+ }
 
-
+}
 
