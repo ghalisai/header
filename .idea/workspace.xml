@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4634a380-6086-4e7b-99c6-85ecf1edd633" name="Default Changelist" comment="age changed" />
+    <list default="true" id="4634a380-6086-4e7b-99c6-85ecf1edd633" name="Default Changelist" comment="age changed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cmKjKcVrRpSS4d48Rkms3I0T35" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -68,7 +71,7 @@
       <workItem from="1594052246219" duration="675000" />
       <workItem from="1594062999834" duration="2389000" />
       <workItem from="1594310479719" duration="638000" />
-      <workItem from="1595256320667" duration="1684000" />
+      <workItem from="1595256320667" duration="2092000" />
     </task>
     <task id="LOCAL-00001" summary="age changed">
       <created>1591128638894</created>
