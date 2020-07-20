@@ -100,11 +100,29 @@
       <option name="project" value="LOCAL" />
       <updated>1595265059396</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="age changed">
+      <created>1595275944714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595275944714</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="age changed" />
@@ -119,11 +137,11 @@
       <screen x="0" y="23" width="1792" height="1049" />
     </state>
     <state x="384" y="112" key="#Project_Structure/0.23.1792.1049@0.23.1792.1049" timestamp="1594065767503" />
-    <state x="479" y="135" key="CommitChangelistDialog2" timestamp="1595265941521">
+    <state x="479" y="135" key="CommitChangelistDialog2" timestamp="1595276001681">
       <screen x="0" y="23" width="1792" height="1050" />
     </state>
     <state x="479" y="134" key="CommitChangelistDialog2/0.23.1792.1040@0.23.1792.1040" timestamp="1591128638615" />
-    <state x="479" y="135" key="CommitChangelistDialog2/0.23.1792.1050@0.23.1792.1050" timestamp="1595265941521" />
+    <state x="479" y="135" key="CommitChangelistDialog2/0.23.1792.1050@0.23.1792.1050" timestamp="1595276001681" />
     <state x="479" y="135" key="CommitChangelistDialog2/0.23.1792.1051@0.23.1792.1051" timestamp="1595259364464" />
     <state width="1750" height="274" key="GridCell.Tab.0.bottom" timestamp="1595264109926">
       <screen x="0" y="23" width="1792" height="1050" />
